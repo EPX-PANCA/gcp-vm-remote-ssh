@@ -12,4 +12,4 @@ sudo wget https://raw.githubusercontent.com/EPX-PANCA/gcp-vm-remote-ssh/main/ssh
 
 sudo systemctl start sshd
 
-sudo systemctl enable sshd
+echo "sukses coy"
